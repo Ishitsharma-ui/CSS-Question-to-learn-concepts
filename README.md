@@ -27,3 +27,39 @@
     <footer> Footer</footer>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+Here is the styling of the above clone
+
+* {
+    padding: 0;
+    margin: 0;
+    color: white
+}
+
+#navbar {
+    height: 50px;
+    background-color: black
+}
+button{
+    background-color: blue;
+}
+#logo{
+    color: yellow;
+    font-size: 30px;
+}
+a{
+    margin-right: 200px;
+}
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+}
